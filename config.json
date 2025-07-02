@@ -2,8 +2,8 @@
     "language": "vi",
     "notiGroup": true,
     "MAINTENANCE": false,
-    "allowInbox": true,
-    "BOTNAME": " 💗 ",
+    "allowInbox": false,
+    "BOTNAME": " pet cua Nhv",
     "AMDIN_NAME": "Hongg Vii 💢🎀🎓",
     "keyRent": "Lunar",
     "FACEBOOK_ADMIN": "https://www.facebook.com/share/16Yu1mN1oh/",
@@ -11,11 +11,11 @@
     "box_admin": "",
     "ADMINBOT": [
         "61572881026218",
-        ""
+        "61576608335762"
     ],
     "NDH": [
         "61572881026218",
-        ""
+        "61576608335762"
     ],
     "autoCleanCache": {
         "Enable": true,
