@@ -3,7 +3,7 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": true,
-    "BOTNAME": " bot nguu",
+    "BOTNAME": " 💢",
     "AMDIN_NAME": "Hongg Vii 💢🎀🎓",
     "keyRent": "",
     "FACEBOOK_ADMIN": "https://www.facebook.com/share/16Yu1mN1oh/",
@@ -11,11 +11,11 @@
     "box_admin": "",
     "ADMINBOT": [
         "61572881026218",
-        "61576608335762"
+        "61551725615074"
     ],
     "NDH": [
         "61572881026218",
-        "61576608335762"
+        "61551725615074"
     ],
     "autoCleanCache": {
         "Enable": true,
@@ -44,10 +44,10 @@
         "pauseLog": true,
         "logLevel": "error",
         "selfListen": false,
-        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+        "userAgent": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36 "
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAGNO4a7r2wBO4G8F3nWwhaEphwXSDAX3cZAZCiZBjK54mimPu2QDDwIlXBXMoYhPfaCJxNjvc7BNbVr2KmjY9sk0PIfktuHtn4oaX7zoGKE9eLplGeZBmlMw0y0D4o4tGaRw7d0emxzdSJV0Q11TQvqXwvKtbZB3rC9PlZC4sKrpYK0Xo6vxXuZBiMhY3oKQZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPM5dFWnyllYW6HFSEJMgv5adWUoIM4fG1bXnZBabPgmS1g3vKdUvZAXSIC7BIUafTy9CPmaq2ugIoqYGmuu3TYPwMiiHIV5jrF6pyQ1PjlGPzvVmEZCTRjR91ESba0L45eK8F7T7SxGQByUmPbe7U5bubnlH7qxLw95n0jNmEY4CLHPVgZDZD",
     "leave": {
         "status": false,
         "number": 5
