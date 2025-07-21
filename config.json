@@ -4,17 +4,17 @@
     "MAINTENANCE": false,
     "allowInbox": false,
     "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
-    "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "AMDIN_NAME": "Hongg Vii",
+    "keyRent": "Nhv",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/nhvctii",
+    "PREFIX": "!",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "61572881026218",
         ""
     ],
     "NDH": [
-        "",
+        "61572881026218",
         ""
     ],
     "autoCleanCache": {
@@ -44,10 +44,10 @@
         "pauseLog": true,
         "logLevel": "error",
         "selfListen": false,
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAAAUaZA8jlABO3qZB6kq7FRg2EFbpjWAFkgXxex0y1NDfewZBYZBeEqRR0pXYYC0XjCDSYNlliqSUxfsT1h4mj1PRQHfnSnE2iI6MtYts7lY5bIKqY8y8zr7b7UszJnyrJzrS7QUjEgHUeWg9nBOmXSctr8f1B2ZA4qgqZAlUiyg0JYVOCqDYZCiYckAZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPKD6GE2JEhbSNqtq1PEImMUqLpPGRAPAa8ArodjwOENxZCy0BoS9dFZB4OjG16kvndBm5P8WTlZBvRmKj97nFGnhAemRt7UMDYu8ZBsKNQJXlHu5oWqLFD8xirZBfjG9RfaJLNBAYFov349olZBXdYe72OBk174UmZAjUi6RTADKqKmfpNE2wZDZD",
     "leave": {
         "status": false,
         "number": 5
