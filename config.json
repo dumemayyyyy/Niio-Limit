@@ -44,10 +44,10 @@
         "pauseLog": true,
         "logLevel": "error",
         "selfListen": false,
-        "userAgent": "|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAGNO4a7r2wBPHbhkcPlTJVLufb3ZAJJHdTIn0LR37SUsERweBxAtQfRqP8p0QvnjNAVQMawLqH8iZB8U35dZCJp8J0j77Ykib9MnjC3PxMHnzEJvv7VtKKqZCxs6NgNXz3MFP6fvMmvKxAXSLyWGVgbpj98xJbykxwXgQ1gcLAiftRnFiNpYsOMXkTlRQm2bAZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPNK2CxWqRUxI5D4YcaQ3mUZB8eqZC7URJ6pgvoPGkacaO8gwm9rFVsrGGXpIcQSoEFrmi22ZAcV7KgZCCjcvMM8ZCKRqjTbgxU2mlM7xW1PZASTk6QZAwDEHZAPTMWYPOBSlo7RrHxTxCGVRDG9HwqCQYhBE0KXDUlkI1iixjrebGai8c5ZATIAZDZD",
     "leave": {
         "status": false,
         "number": 5
