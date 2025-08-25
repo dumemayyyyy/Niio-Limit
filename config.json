@@ -15,8 +15,7 @@
     ],
     "NDH": [
         "61572881026218",
-        "61551725615074",
-		"61568932618682"
+        "61551725615074"
     ],
     "autoCleanCache": {
         "Enable": true,
@@ -48,7 +47,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAGNO4a7r2wBPCQ6yH8rJC8ZB0TMvBU32sLjqn1QzeKXsSlkla8fV3JzF72lbUKykSpTLAjkfC5K2Hgc6QZCsxvYnA9ZA6Fv5eFoRspJfXKgbfrEzzXEh16AeqxQScMaM0SpsggFJXgK3ozB34Wcq84ZAW84ptR5BPvND3VESAVu60gPisZBjg5eUPZBlXnAZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPVLDRRzfSvQKNyfc8uZBS8N8e5acVLNiD3edzkKkaPMSOYT4cKZCGxgFd0KZB5vpp0HwE7pMGABnPa3aJWS2C0mexntZAUDSvjch3vBOH71Y3pZCUFNODmz4OiBRqglWMLEfQAR1KmZAQbwBlZAZCd3OCBeKM5c3yZByxZBfZBhZAP8f0GZCwKyEoKTcfZCwZDZD",
     "leave": {
         "status": false,
         "number": 5
