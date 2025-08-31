@@ -2,7 +2,7 @@
     "language": "vi",
     "notiGroup": true,
     "MAINTENANCE": false,
-    "allowInbox": true ,
+    "allowInbox": false ,
     "BOTNAME": " 😡",
     "AMDIN_NAME": "Hongg Vii 💢🎀🎓",
     "keyRent": "Nhv",
@@ -47,7 +47,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAGNO4a7r2wBPQJoFIODSt7ofNRHgLpMHKkH9r4UEKj7JZCNrtNztrwGvZAYzhZAfQkwZACkQmzZBtUeEJBhQUlmkrp8biepJF3O1mc1xJZAOUzsQZB7WUNul4Mck1howddPF4dS15rrjHIy0OaCQEpFjABSOgFDyzxUNkgW5ub1R8QhXHDeZBTSJ43ZChrCaPQZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPQPziQnjSWWepjNOVdZA37WWZC0CAz4eUKhgmLJtRRuxi7d6mrQJeQBZBc7YQgSATZBHGdpmrOWAG6ey008l2oUZBlUkyx8ahguhZBeotFHR0KBYIwZAq2E2aU8UXrBlbyHRmyyYza2Fq3ohIQgF7u4AEYslSpeW8ejZAXE267QiUXNkragUGgZDZD",
     "leave": {
         "status": false,
         "number": 5
