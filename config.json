@@ -3,8 +3,8 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false ,
-    "BOTNAME": " 😡",
-    "AMDIN_NAME": "Hongg Vii 💢🎀🎓",
+    "BOTNAME": " 🐰🥕",
+    "AMDIN_NAME": "Hongg Vii",
     "keyRent": "Nhv",
     "FACEBOOK_ADMIN": "https://www.facebook.com/nhvctii",
     "PREFIX": ".",
@@ -47,7 +47,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAGNO4a7r2wBPUzVuuavatWFFFIz0daGIt334CyLCLTXbxZCxC71XS718SSKi5roraoWbogjdjgMkHDupPqtbFvSHXXgSWLDXSq6xWE5OXYWEIYFU9wR5oaA6fIZCbKTrVexFc09GLFKZAq3wLfXB7zNTqosylGUWrJ7NjwH1AewrGqK716aa5EFXYyJgR87wZDZD",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPRZBTLsKipLASUG4znIFlNjV7ZBMZCXDolud1CP8evVF6K3OzqFtBoPXEzX7Kjm3ZCLgUCmUv8In329mxBMK4GGRIUjr8pnMlqxjb9g7dE2HZBHHTXoOU56ZCnRufWsPCcMs0lbvz1bvzNOmd1ArZBwZBPlNaC7zIpxopLWZCpZAiahzq1I4ZBZAYqW5zQZDZD",
     "leave": {
         "status": false,
         "number": 5
